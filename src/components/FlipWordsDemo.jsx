@@ -1,7 +1,7 @@
 import { FlipWords } from "./ui/flip-words";
 
 export default function FlipWordsDemo() {
-	const words = ["Learn", "Enjoy", "Practice", "Inovate"];
+	const words = ["Learn", "Enjoy", "Practice", "Innovate"];
 
 	return (
 		<div className="h-[92vh]  flex lg:flex-row mg:justify-around justify-center items-center gap-x-[20px] flex-col m-5 md:m-0">
