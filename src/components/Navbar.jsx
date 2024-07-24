@@ -5,7 +5,7 @@ function Navbar() {
 				National Higher School of Advanced Technlogies
 			</h1>
 			<img
-				src="/src/assets/ENSTA-logo.png"
+				src="assets/ENSTA-logo.png"
 				alt=""
 				className="w-[40px] dark:brightness-0 dark:invert"
 			/>

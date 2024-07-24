@@ -20,7 +20,7 @@ export default function FlipWordsDemo() {
 					</span>
 				</div>
 			</div>
-			<img src="/src/assets/hero.png" alt="" width={"500px"} className="my-4" />
+			<img src="./assets/hero.png" alt="" width={"500px"} className="my-4" />
 		</div>
 	);
 }
