@@ -16,7 +16,7 @@ export default function FlipWordsDemo() {
 					<br />
 					At The{" "}
 					<span className="font-bold">
-						National Higher School of advenced Technologies
+						National Higher School of Advenced Technologies
 					</span>
 				</div>
 			</div>
