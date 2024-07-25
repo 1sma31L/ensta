@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 import Speciallities from "./components/Speciallities";
 function App() {
 	return (
-		<div className="app dark">
+		<div className="app">
 			<div className="flex flex-col justify-center items-center bg-[#F0F8FF] dark:bg-[#18122B]">
 				<Navbar />
 				<div className="container  flex-col items-center ">
