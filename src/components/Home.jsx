@@ -28,7 +28,7 @@ function Home() {
 						{section.id === 2 ? (
 							<iframe
 								key="93"
-								className="video rounded-xl my-3"
+								className="video rounded-xl my-3 p-[100px]"
 								title="Youtube player"
 								style={{ aspectRatio: "16/9", width: "100%" }}
 								sandbox="allow-same-origin allow-forms allow-popups allow-scripts allow-presentation"
